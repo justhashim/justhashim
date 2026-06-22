@@ -11,7 +11,7 @@
 
 <div align="center">
   
-![GitHub followers](https://img.shields.io/github/followers/HashimCodeDev?style=for-the-badge&logo=github) ![GitHub User's stars](https://img.shields.io/github/stars/HashimCodeDev?style=for-the-badge&logo=github) <img src="https://komarev.com/ghpvc/?username=HashimCodeDev&style=for-the-badge&logo=github" alt="" />
+![GitHub followers](https://img.shields.io/github/followers/justhashim?style=for-the-badge&logo=github) ![GitHub User's stars](https://img.shields.io/github/stars/justhashim?style=for-the-badge&logo=github) <img src="https://komarev.com/ghpvc/?username=justhashim&style=for-the-badge&logo=github" alt="" />
 </div>
 
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture>
@@ -60,10 +60,10 @@
   <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
   <br><br>
   
-  <img  align="center"  src="https://github-readme-stats-one-wine-16.vercel.app/api?username=HashimCodeDev&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
+  <img  align="center"  src="https://github-readme-stats-one-wine-16.vercel.app/api?username=justhashim&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
 
   <br><br>
-  [![GitHub Streak](https://github-readme-streak-stats-tan-two-93.vercel.app?user=HashimCodeDev&theme=midnight-purple&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats-tan-two-93.vercel.app?user=justhashim&theme=midnight-purple&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   <br>
   <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
@@ -71,14 +71,14 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HashimCodeDev&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=justhashim&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
   
 </tr>
 </table>
 
-<img src="https://github.com/HashimCodeDev/HashimCodeDev/blob/output/github-snake-dark.svg"  alt="github contribution grid snake animation" >
+<img src="https://github.com/justhashim/justhashim/blob/output/github-snake-dark.svg"  alt="github contribution grid snake animation" >
 
 <br>
 
@@ -88,7 +88,7 @@
 
 ## 🏆 GitHub Trophies
 <div align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=HashimCodeDev&theme=dracula"/>
+<img src="https://github-profile-trophy.vercel.app/?username=justhashim&theme=dracula"/>
 </div>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
