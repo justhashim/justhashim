@@ -1,45 +1,47 @@
-name: Snake generator
+name: Contribution snake
 
 on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *" # run every hour
+    - cron: "17 * * * *" # hourly, off the top of the hour to avoid the GitHub rush
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snake-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v7
 
-      - name: Create snake
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
-          # github user name to read the contribution graph from (**required**)
-          # using action context var `github.repository_owner` or specified user
+          # read the contribution graph from the repo owner
           github_user_name: ${{ github.repository_owner }}
 
-          # list of files to generate.
-          # one file per line. Each output can be customized with options as query string.
-          #
-          # supported options:
-          # - palette:     A preset of color, one of [github, github-dark, github-light]
-          # - color_snake: Color of the snake
-          # - color_dots:  Comma separated list of dots color.
-          #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-          #                 Exactly 5 colors are expected.
+          # one output per line, each configurable with query-string options:
+          # - palette:     [github, github-dark, github-light]
+          # - color_snake: colour of the snake
+          # - color_dots:  exactly 5 comma-separated colours, lowest to highest
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Publish to the output branch
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          target_branch: output
-          build_dir: dist
-          # preserve history
-          keep_files: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          folder: dist
+          # keep the previously generated assets that are not in dist/
+          clean: false
+          single-commit: true
+          commit-message: "chore: update contribution snake"
