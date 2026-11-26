@@ -20,11 +20,9 @@
 
 I goof off 90% of the time and lock in for the 10% that matters.
 
-Most of this account is the 90%. A horror game in an abandoned asylum. Cards for friends. An alarm clock that backs away when you get within 20 cm.
-
 The 10% is backend work. Java and Spring Boot as an intern at Linsys Innovations. Node, Fastify or Python when the project wants it. Postgres under almost all of it.
 
-I'm doing a B.Tech in Computer Science at Model Engineering College, Thrikkakara. Class of '28.
+B.Tech in Computer Science at Model Engineering College, class of '28.
 
 Do I always know what I'm doing? Not really.
 
@@ -47,16 +45,11 @@ The rest. Mostly for fun. Sometimes for a hackathon.
 - **[Shuttumani](https://github.com/justhashim/shuttumani)**: an alarm clock on a scrapped RC car, built at Scraphack. Get within 20 cm and it reverses. Our first hardware project. One wheel is held on with a stick and some glue. [The whole story](https://hashimmohamedta.medium.com/what-happens-when-you-give-beginners-a-pile-of-scraps-and-20-hours-60d4f4abcbbc).
 - **[Bridgio](https://github.com/justhashim/bridgio)**: sign language to text and speech, live from a webcam. Won the MecLabs Hackathon.
 - **[Shadows of the Abandoned](https://github.com/justhashim/shadows-of-abandoned)**: first-person horror in an abandoned asylum. You get a flashlight. Good luck.
-- **[FYV](https://github.com/justhashim/FYV)**: random video chat for college students.
-- **[Vestiq](https://github.com/justhashim/Vestiq)**: tag your clothes from photos, then ask an AI stylist what to wear.
-- **[Tabletap](https://github.com/justhashim/Tabletap)**: scan the QR on your table and order. Comes with an admin dashboard and a kitchen display that updates live.
 - **[treetouch](https://github.com/justhashim/treetouch)**: type an indented outline, get real folders and files. On npm and PyPI, because why pick one.
 - **[ktu-exam-predictor](https://github.com/justhashim/ktu-exam-predictor)**: an agent skill that reads past KTU papers and tells you what's likely to come. Exam season makes you build things.
 - **[Will-You-Marry-Me](https://github.com/justhashim/Will-You-Marry-Me)**: a proposal page where the No button runs away from your cursor. I might have a thing for stuff that runs away.
-- **[CodeCo](https://github.com/justhashim/CodeCo)**: a clingy desktop girlfriend with an affection meter. Satire, I promise.
-- **[farewell-card](https://github.com/justhashim/farewell-card)**: a 3D farewell invite. Open the envelope, then spin the card. [Open it](https://farewell-card-seven.vercel.app).
 
-Everything else is in the [repo list](https://github.com/justhashim?tab=repositories).
+Also a [clingy desktop girlfriend](https://github.com/justhashim/CodeCo) (satire, I promise), a [3D farewell card](https://farewell-card-seven.vercel.app) and the rest of the [repo list](https://github.com/justhashim?tab=repositories).
 
 ## Record
 
@@ -68,7 +61,7 @@ Everything else is in the [repo list](https://github.com/justhashim?tab=reposito
 | Finalist | MecLabs Hackathon | 2024 | [FYV](https://github.com/justhashim/FYV) |
 | Finalist | Dr. P. Thevannoor Hackathon | 2022 | [MisFit](https://github.com/justhashim/MisFit) |
 
-Off the hackathon floor: Web Lead at NSDC MEC, Chief System Architect at Spaceborn, Spring Boot intern at Linsys Innovations.
+Off the hackathon floor, I build for the clubs around me. Chief System Architect at [Spaceborn](https://github.com/Spaceborn-Beyond-Autonomous). Games for [Excel MEC](https://github.com/excelmec)'s Excel Play, Tetherverse included. The [TinkerHub MEC](https://github.com/TinkerHubMEC-Official) website and CMS. Web Lead for MEC.CONF 2026 and NSDC MEC.
 
 ## Lately on Medium
 
@@ -77,17 +70,6 @@ Off the hackathon floor: Web Lead at NSDC MEC, Chief System Architect at Spacebo
 <!-- medium:end -->
 
 <sub>Updated by a GitHub Action every morning. The long version of everything above lives here.</sub>
-
-## Toolbox
-
-Tools, and where I actually used them.
-
-- **Services**: Java and Spring Boot (Linsys). Node and Express (STVE, Tabletap). Fastify (BrightLoop, Tetherverse). Python (rolecall, StoryWeave, Bridgio). FastAPI (StoryWeave, Bridgio). LLM tool calling (rolecall).
-- **Data**: PostgreSQL (rolecall, STVE, BrightLoop, Tetherverse). pgvector and hybrid search (rolecall). Prisma (STVE, Tetherverse). Supabase (StoryWeave, lockin).
-- **Interface**: React and Next.js (almost everything). Tailwind. Phaser and Matter.js (Tetherverse). Babylon.js (Shadows of the Abandoned).
-- **Delivery**: Docker (rolecall, Tetherverse). Cloudflare Workers (Tetherverse).
-
-Also on the résumé: MySQL, MongoDB, Firebase.
 
 ## Say hi
 
