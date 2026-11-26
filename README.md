@@ -1,106 +1,122 @@
-<p align="center">
-  <a href="https://hashimweb.netlify.app">
-    <img src="https://raw.githubusercontent.com/justhashim/justhashim/main/assets/avatar.svg" alt="Hashim Mohamed T A" width="96">
-  </a>
-</p>
-
-<h1 align="center">Hashim Mohamed T A</h1>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justhashim/justhashim/main/assets/typing-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justhashim/justhashim/main/assets/typing-light.svg">
-  <img alt="Backend developer. Java, Spring Boot, Node. React, Next.js, Tailwind" src="https://raw.githubusercontent.com/justhashim/justhashim/main/assets/typing-light.svg">
-</picture>
+<a href="https://hashimweb.netlify.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justhashim/justhashim/main/assets/banner-lockin.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justhashim/justhashim/main/assets/banner-play.svg">
+    <img alt="Hashim Mohamed. I build stuff, mostly for fun. And sometimes I lock in." src="https://raw.githubusercontent.com/justhashim/justhashim/main/assets/banner-play.svg" width="100%">
+  </picture>
+</a>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hashimmohamedta/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-hashimmohamedta-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://hashimweb.netlify.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-hashimweb-3b82f6?style=flat-square&logo=googlechrome&logoColor=white"></a>
-  <a href="https://github.com/justhashim"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-justhashim-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <samp>
+    <a href="https://hashimweb.netlify.app">portfolio</a> .
+    <a href="https://hashimmohamedta.medium.com/">medium</a> .
+    <a href="https://www.linkedin.com/in/hashimmohamedta/">linkedin</a> .
+    <a href="https://www.instagram.com/ha._shim_/">instagram</a> .
+    <a href="https://hashimweb.netlify.app/Hashim%20Mohamed%20T.A%20-%20Resume.pdf">résumé</a>
+  </samp>
+  <br>
+  <sub>Light theme is play mode. Switch GitHub to dark to lock in.</sub>
 </p>
 
+I goof off 90% of the time and lock in for the 10% that matters.
+
+Most of this account is the 90%. A horror game in an abandoned asylum. Cards for friends. An alarm clock that backs away when you get within 20 cm.
+
+The 10% is backend work. Java and Spring Boot as an intern at Linsys Innovations. Node, Fastify or Python when the project wants it. Postgres under almost all of it.
+
+I'm doing a B.Tech in Computer Science at Model Engineering College, Thrikkakara. Class of '28.
+
+Do I always know what I'm doing? Not really.
+
+Hasn't stopped me yet.
+
+## The 10%
+
+The ones I was locked in for.
+
+- **[rolecall](https://github.com/justhashim/rolecall)**. A job-matching agent over a live jobs index. Hybrid search on Postgres and pgvector, and evals that measure search quality instead of eyeballing it. The model isn't allowed to recommend a job it never retrieved. If it tries, the answer gets rejected and sent back to be fixed.
+- **[BrightLoop](https://github.com/justhashim/BrightLoop)**. Subscription billing that refuses to charge anyone twice. A unique index on `(subscription_id, period_index)` turns double-billing into a constraint violation. Run billing again and the duplicates just bounce.
+- **[STVE](https://github.com/justhashim/STVE)**. A trust layer for IoT soil sensors. Every reading gets scored as `0.3 temporal + 0.5 cross + 0.2 physical`. One probe drifting on its own is a broken sensor, and it gets a ticket. The whole zone moving together is a `FIELD_EVENT`. That one's real.
+- **[Tetherverse](https://github.com/justhashim/Tetherverse-Frontend)**. A swing-and-climb physics game. Hold to grapple, release to launch. Score runs are managed by the server, because the client can't be trusted. [Play it](https://tetherverse.vercel.app).
+- **[StoryWeave](https://github.com/justhashim/StoryWeave)**. Collaborative storytelling over WebSockets. People add lines. Every fifth one, GPT-2 throws in a plot twist. It won Grab A Pi Hacknight. The prize was a Raspberry Pi 4.
+
+## The 90%
+
+The rest. Mostly for fun. Sometimes for a hackathon.
+
+- **[Shuttumani](https://github.com/justhashim/shuttumani)**: an alarm clock on a scrapped RC car, built at Scraphack. Get within 20 cm and it reverses. Our first hardware project. One wheel is held on with a stick and some glue. [The whole story](https://hashimmohamedta.medium.com/what-happens-when-you-give-beginners-a-pile-of-scraps-and-20-hours-60d4f4abcbbc).
+- **[Bridgio](https://github.com/justhashim/bridgio)**: sign language to text and speech, live from a webcam. Won the MecLabs Hackathon.
+- **[Shadows of the Abandoned](https://github.com/justhashim/shadows-of-abandoned)**: first-person horror in an abandoned asylum. You get a flashlight. Good luck.
+- **[FYV](https://github.com/justhashim/FYV)**: random video chat for college students.
+- **[Vestiq](https://github.com/justhashim/Vestiq)**: tag your clothes from photos, then ask an AI stylist what to wear.
+- **[Tabletap](https://github.com/justhashim/Tabletap)**: scan the QR on your table and order. Comes with an admin dashboard and a kitchen display that updates live.
+- **[treetouch](https://github.com/justhashim/treetouch)**: type an indented outline, get real folders and files. On npm and PyPI, because why pick one.
+- **[ktu-exam-predictor](https://github.com/justhashim/ktu-exam-predictor)**: an agent skill that reads past KTU papers and tells you what's likely to come. Exam season makes you build things.
+- **[Will-You-Marry-Me](https://github.com/justhashim/Will-You-Marry-Me)**: a proposal page where the No button runs away from your cursor. I might have a thing for stuff that runs away.
+- **[CodeCo](https://github.com/justhashim/CodeCo)**: a clingy desktop girlfriend with an affection meter. Satire, I promise.
+- **[farewell-card](https://github.com/justhashim/farewell-card)**: a 3D farewell invite. Open the envelope, then spin the card. [Open it](https://farewell-card-seven.vercel.app).
+
+Everything else is in the [repo list](https://github.com/justhashim?tab=repositories).
+
+## Record
+
+| | Hackathon | Year | With |
+|---|---|---|---|
+| 1st | MecLabs Hackathon | 2025 | [Bridgio](https://github.com/justhashim/bridgio) |
+| 2nd | Operation Darknoon, a cybersecurity hackathon | 2025 | |
+| 1st | Grab A Pi Hacknight | 2025 | [StoryWeave](https://github.com/justhashim/StoryWeave) |
+| Finalist | MecLabs Hackathon | 2024 | [FYV](https://github.com/justhashim/FYV) |
+| Finalist | Dr. P. Thevannoor Hackathon | 2022 | [MisFit](https://github.com/justhashim/MisFit) |
+
+Off the hackathon floor: Web Lead at NSDC MEC, Chief System Architect at Spaceborn, Spring Boot intern at Linsys Innovations.
+
+## Lately on Medium
+
+<!-- medium:start -->
+- [What Happens When You Give Beginners a Pile of Scraps and 20 Hours?](https://hashimmohamedta.medium.com/what-happens-when-you-give-beginners-a-pile-of-scraps-and-20-hours-60d4f4abcbbc) (Nov 2026)
+<!-- medium:end -->
+
+<sub>Updated by a GitHub Action every morning. The long version of everything above lives here.</sub>
+
+## Toolbox
+
+Tools, and where I actually used them.
+
+- **Services**: Java and Spring Boot (Linsys). Node and Express (STVE, Tabletap). Fastify (BrightLoop, Tetherverse). Python (rolecall, StoryWeave, Bridgio). FastAPI (StoryWeave, Bridgio). LLM tool calling (rolecall).
+- **Data**: PostgreSQL (rolecall, STVE, BrightLoop, Tetherverse). pgvector and hybrid search (rolecall). Prisma (STVE, Tetherverse). Supabase (StoryWeave, lockin).
+- **Interface**: React and Next.js (almost everything). Tailwind. Phaser and Matter.js (Tetherverse). Babylon.js (Shadows of the Abandoned).
+- **Delivery**: Docker (rolecall, Tetherverse). Cloudflare Workers (Tetherverse).
+
+Also on the résumé: MySQL, MongoDB, Firebase.
+
+## Say hi
+
+Work, internships, the serious 10%: [LinkedIn](https://www.linkedin.com/in/hashimmohamedta/). The long version: [Medium](https://hashimmohamedta.medium.com/). Everything else: [Instagram](https://www.instagram.com/ha._shim_/).
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justhashim/justhashim/main/assets/divider-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justhashim/justhashim/main/assets/divider-light.svg">
-  <img alt="" src="https://raw.githubusercontent.com/justhashim/justhashim/main/assets/divider-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justhashim/justhashim/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justhashim/justhashim/output/github-snake.svg">
+  <img alt="My contribution graph, getting eaten by a snake" src="https://raw.githubusercontent.com/justhashim/justhashim/output/github-snake.svg" width="100%">
 </picture>
 
-## About
-
-I build backend services, mostly in Java with Spring Boot, and in Node.js or Python when the project calls for it. In practice that means schemas and indexes, REST APIs, auth, background work and whatever deployment story the project ends up needing. Lately that also means retrieval and LLM tooling on top of Postgres.
-
-I started on the front end, so React, Next.js and Tailwind are still in the toolkit and I would rather ship a feature end to end. I'm a computer science student. Most of what is on this account is personal projects, hackathon builds and things made for college events.
-
-> [!TIP]
-> I'm open to backend and full-stack roles, freelance work and open source contributions. LinkedIn gets the fastest reply.
-
-## Stack
-
-**Languages and frameworks**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,express,ts,react,nextjs,tailwind&perline=5&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,express,ts,react,nextjs,tailwind&perline=5&theme=light">
-  <img alt="Java, Spring, Python, FastAPI, Node.js, Express, TypeScript, React, Next.js and Tailwind CSS" src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,express,ts,react,nextjs,tailwind&perline=5&theme=light">
-</picture>
-
-**Data, infrastructure and tooling**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,supabase,firebase,docker,aws,vercel,cloudflare,linux,git,idea,postman&perline=7&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,supabase,firebase,docker,aws,vercel,cloudflare,linux,git,idea,postman&perline=7&theme=light">
-  <img alt="PostgreSQL, MySQL, MongoDB, Prisma, Supabase, Firebase, Docker, AWS, Vercel, Cloudflare, Linux, Git, IntelliJ IDEA and Postman" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,supabase,firebase,docker,aws,vercel,cloudflare,linux,git,idea,postman&perline=7&theme=light">
-</picture>
-
-## Projects
-
-**Backend and systems**
-
-- **[rolecall](https://github.com/justhashim/rolecall)**: Job-matching agent over a live jobs index. Hybrid search on Postgres and pgvector, a tool-calling LLM whose answers must be grounded, and retrieval evals that keep it honest. *Python*
-- **[BrightLoop](https://github.com/justhashim/BrightLoop)**: Subscription billing with plans, quotations, subscription lifecycle and idempotent invoicing. *Fastify, Next.js*
-- **[Tabletap](https://github.com/justhashim/Tabletap)**: QR table ordering for restaurants, with a customer app, admin dashboard and live kitchen display. *Express, PostgreSQL, Socket.io, Docker*
-- **[DevTrackr](https://github.com/justhashim/DevTrackr)**: Project tracker with JWT auth. *Spring Boot, Next.js, PostgreSQL*
-- **[STVE](https://github.com/justhashim/STVE)**: Trust layer for IoT soil sensors. Scores readings, flags stuck or drifting probes and opens tickets. *Express, Next.js*
-
-**Products and tools**
-
-- **[Vestiq](https://github.com/justhashim/Vestiq)**: AI wardrobe app. Tag your clothes from photos, then chat with a stylist. *Next.js, Express, Gemini* ([live](https://out-fitly-coral.vercel.app))
-- **[Tetherverse](https://github.com/justhashim/Tetherverse-Frontend)**: Physics-based swing-and-climb game with a server-managed score backend. *Phaser, Matter.js, Cloudflare Workers* ([play](https://tetherverse.vercel.app))
-- **[ktu-exam-predictor](https://github.com/justhashim/ktu-exam-predictor)**: Agent skill that predicts important topics and likely questions for KTU exams from past papers and module notes. *Python*
-- **[treetouch](https://github.com/justhashim/treetouch)**: CLI that turns an indented text outline into folders and empty files. Published on npm and PyPI. *Python*
-- **[FYV](https://github.com/justhashim/FYV)**: Random video chat for college students. *React, Express, PeerJS, Firestore*
-
-Everything else is in the [repository list](https://github.com/justhashim?tab=repositories).
-
-## Activity
+<details>
+<summary>The receipts</summary>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-wine-16.vercel.app/api?username=justhashim&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0d1117&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-wine-16.vercel.app/api?username=justhashim&show_icons=true&count_private=true&include_all_commits=true&bg_color=ffffff&hide_border=true">
   <img alt="GitHub stats: commits, stars, pull requests, issues and contributions" src="https://github-readme-stats-one-wine-16.vercel.app/api?username=justhashim&show_icons=true&count_private=true&include_all_commits=true&bg_color=ffffff&hide_border=true">
 </picture>
-
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-wine-16.vercel.app/api/top-langs/?username=justhashim&layout=compact&langs_count=8&theme=github_dark&bg_color=0d1117&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-wine-16.vercel.app/api/top-langs/?username=justhashim&layout=compact&langs_count=8&bg_color=ffffff&hide_border=true">
-  <img alt="Most used languages by Hashim" src="https://github-readme-stats-one-wine-16.vercel.app/api/top-langs/?username=justhashim&layout=compact&langs_count=8&bg_color=ffffff&hide_border=true">
+  <img alt="Most used languages" src="https://github-readme-stats-one-wine-16.vercel.app/api/top-langs/?username=justhashim&layout=compact&langs_count=8&bg_color=ffffff&hide_border=true">
 </picture>
-
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-tan-two-93.vercel.app?user=justhashim&theme=github_dark&background=0d1117&border=0d1117&date_format=j%20M%5B%20Y%5D">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-tan-two-93.vercel.app?user=justhashim&background=ffffff&border=ffffff&date_format=j%20M%5B%20Y%5D">
   <img alt="Current and longest contribution streaks" src="https://github-readme-streak-stats-tan-two-93.vercel.app?user=justhashim&background=ffffff&border=ffffff&date_format=j%20M%5B%20Y%5D">
 </picture>
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justhashim/justhashim/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justhashim/justhashim/output/github-snake.svg">
-  <img alt="Contribution graph animated as a snake" src="https://raw.githubusercontent.com/justhashim/justhashim/output/github-snake.svg">
-</picture>
-
-<p align="center"><sub>Regenerated every hour by GitHub Actions.</sub></p>
+</details>

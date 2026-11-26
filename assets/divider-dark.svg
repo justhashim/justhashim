@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="24" viewBox="0 0 720 24" role="presentation">
-  <style>
-    .travel { animation: travel 7s linear infinite; }
-    @keyframes travel { from { stroke-dashoffset: 0; } to { stroke-dashoffset: -720; } }
-    @media (prefers-reduced-motion: reduce) { .travel { animation: none; stroke-dashoffset: -300; } }
-  </style>
-  <path d="M0,12 H720" fill="none" stroke="#30363d" stroke-width="1"/>
-  <path class="travel" d="M0,12 H720" fill="none" stroke="#58a6ff" stroke-width="2" stroke-linecap="round" stroke-dasharray="60 660"/>
-</svg>
