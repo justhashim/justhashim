@@ -18,9 +18,7 @@
   <sub>Light theme is play mode. Switch GitHub to dark to lock in.</sub>
 </p>
 
-I goof off 90% of the time and lock in for the 10% that matters.
-
-The 10% is backend work. Java and Spring Boot as an intern at Linsys Innovations. Node, Fastify or Python when the project wants it. Postgres under almost all of it.
+When I'm serious, it's backend work. Java and Spring Boot as an intern at Linsys Innovations. Node, Fastify or Python when the project wants it. Postgres under almost all of it.
 
 B.Tech in Computer Science at Model Engineering College, class of '28.
 
@@ -28,9 +26,7 @@ Do I always know what I'm doing? Not really.
 
 Hasn't stopped me yet.
 
-## The 10%
-
-The ones I was locked in for.
+## The serious ones
 
 - **[rolecall](https://github.com/justhashim/rolecall)**. A job-matching agent over a live jobs index. Hybrid search on Postgres and pgvector, and evals that measure search quality instead of eyeballing it. The model isn't allowed to recommend a job it never retrieved. If it tries, the answer gets rejected and sent back to be fixed.
 - **[BrightLoop](https://github.com/justhashim/BrightLoop)**. Subscription billing that refuses to charge anyone twice. A unique index on `(subscription_id, period_index)` turns double-billing into a constraint violation. Run billing again and the duplicates just bounce.
@@ -38,9 +34,7 @@ The ones I was locked in for.
 - **[Tetherverse](https://github.com/justhashim/Tetherverse-Frontend)**. A swing-and-climb physics game. Hold to grapple, release to launch. Score runs are managed by the server, because the client can't be trusted. [Play it](https://tetherverse.vercel.app).
 - **[StoryWeave](https://github.com/justhashim/StoryWeave)**. Collaborative storytelling over WebSockets. People add lines. Every fifth one, GPT-2 throws in a plot twist. It won Grab A Pi Hacknight. The prize was a Raspberry Pi 4.
 
-## The 90%
-
-The rest. Mostly for fun. Sometimes for a hackathon.
+## The fun ones
 
 - **[Shuttumani](https://github.com/justhashim/shuttumani)**: an alarm clock on a scrapped RC car, built at Scraphack. Get within 20 cm and it reverses. Our first hardware project. One wheel is held on with a stick and some glue. [The whole story](https://hashimmohamedta.medium.com/what-happens-when-you-give-beginners-a-pile-of-scraps-and-20-hours-60d4f4abcbbc).
 - **[Bridgio](https://github.com/justhashim/bridgio)**: sign language to text and speech, live from a webcam. Won the MecLabs Hackathon.
@@ -73,7 +67,7 @@ Off the hackathon floor, I build for the clubs around me. Chief System Architect
 
 ## Say hi
 
-Work, internships, the serious 10%: [LinkedIn](https://www.linkedin.com/in/hashimmohamedta/). The long version: [Medium](https://hashimmohamedta.medium.com/). Everything else: [Instagram](https://www.instagram.com/ha._shim_/).
+Work and internships: [LinkedIn](https://www.linkedin.com/in/hashimmohamedta/). The long version: [Medium](https://hashimmohamedta.medium.com/). Everything else: [Instagram](https://www.instagram.com/ha._shim_/).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justhashim/justhashim/output/github-snake-dark.svg">
