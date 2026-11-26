@@ -40,7 +40,7 @@ Do I always know what I'm doing? Not really. Hasn't stopped me yet.
 - **[Bridgio](https://github.com/justhashim/bridgio)**: turns sign language into text and speech from a webcam. Won the MecLabs Hackathon in 2025.
 - **[Shadows of the Abandoned](https://github.com/justhashim/shadows-of-abandoned)**: a first-person horror game set in an abandoned asylum. You get a flashlight and that's about it.
 - **[treetouch](https://github.com/justhashim/treetouch)**: a small CLI. Write an indented outline and it creates the folders and files for you. It's on npm and PyPI.
-- **[ktu-exam-predictor](https://github.com/justhashim/ktu-exam-predictor)**: an agent skill that goes through past KTU papers and guesses what'll come in the exam. Built during exam season, obviously.
+- **[ktu-exam-predictor](https://github.com/justhashim/ktu-exam-predictor)**: an agent skill that goes through past KTU papers, the notes and the syllabus, and tells you what to study first. Built the night before my Computer Networks exam, obviously. It got a lot right and missed four topics completely. [Full story here](https://hashimmohamedta.medium.com/i-built-an-exam-predictor-the-night-before-my-computer-networks-exam-8f3f41c8b52b).
 - **[Will-You-Marry-Me](https://github.com/justhashim/Will-You-Marry-Me)**: a proposal page where the No button keeps running away from your cursor. Looking at this list, I might have a thing for stuff that runs away.
 
 There's also a [clingy desktop girlfriend app](https://github.com/justhashim/CodeCo) (it's satire, I promise), a [3D farewell card](https://farewell-card-seven.vercel.app) and a lot more in the [repo list](https://github.com/justhashim?tab=repositories).
