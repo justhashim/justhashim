@@ -55,7 +55,7 @@ There's also a [clingy desktop girlfriend app](https://github.com/justhashim/Cod
 | Finalist | MecLabs Hackathon | 2024 | [FYV](https://github.com/justhashim/FYV) |
 | Finalist | Dr. P. Thevannoor Hackathon | 2022 | [MisFit](https://github.com/justhashim/MisFit) |
 
-Outside hackathons, I mostly build things for clubs at college. I was Chief System Architect at [Spaceborn](https://github.com/Spaceborn-Beyond-Autonomous), built games for [Excel MEC](https://github.com/excelmec)'s Excel Play (Tetherverse is one of them) and worked on the [TinkerHub MEC](https://github.com/TinkerHubMEC-Official) website and CMS. I was Web Lead for MEC.CONF 2026, and now I'm doing the same for NSDC MEC.
+Outside hackathons, I mostly build things for clubs at college. I built games for [Excel MEC](https://github.com/excelmec)'s Excel Play (Tetherverse is one of them) and worked on the [TinkerHub MEC](https://github.com/TinkerHubMEC-Official) website and CMS. I was Web Lead for MEC.CONF 2026, and now I'm doing the same for NSDC MEC.
 
 ## Lately on Medium
 
