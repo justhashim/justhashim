@@ -60,6 +60,7 @@ Outside hackathons, I mostly build things for clubs at college. I was Chief Syst
 ## Lately on Medium
 
 <!-- medium:start -->
+- [I Opened My Exam Paper and Started Giggling](https://hashimmohamedta.medium.com/i-opened-my-exam-paper-and-started-giggling-2dfcba7fca6e) (Nov 2026)
 - [I Built an Exam Predictor the Night Before My Computer Networks Exam](https://hashimmohamedta.medium.com/i-built-an-exam-predictor-the-night-before-my-computer-networks-exam-8f3f41c8b52b) (Nov 2026)
 - [What Happens When You Give Beginners a Pile of Scraps and 20 Hours?](https://hashimmohamedta.medium.com/what-happens-when-you-give-beginners-a-pile-of-scraps-and-20-hours-60d4f4abcbbc) (Nov 2026)
 <!-- medium:end -->
